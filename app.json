@@ -3,6 +3,7 @@
   "logo": "https://telegra.ph/file/d7b133573a5a3622775e6.jpg",
   "success_url": "/suhail/",
   "app_url": "/qr/",
+  "repository": "https://github.com/WillisKE/Suhail",
   "ok-stack":"container",
   "env": { 
     "TZ": {

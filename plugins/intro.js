@@ -8,36 +8,28 @@ var surl = 'https://www.youtube.com/c/WillisWrld' // Source URL
 
 const number = '254786273945'
 
-var name = 'Willis'
+var name = 'ᴡɪʟʟɪꜱ'
 
 var body = '𝑇𝛩𝑈𝐶𝛨 𝛨𝛯𝑅𝛯'
 
 var image = 'https://telegra.ph/file/cd250759ecb35a39a9951.jpg'
 
 let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
-
 │       〃ᴡɪʟʟɪꜱ〃
 
 │ Name      : ᴡɪʟʟɪꜱ
-
-│ Place       : ᴋɪꜱᴜᴍᴜ/ᴋᴇɴʏᴀ
-
+│ Place     : ᴋɪꜱᴜᴍᴜ/ᴋᴇɴʏᴀ
 │ Gender    :  ᴍ
+│ Age       : 18
+│ Phone     : +254786273945
 
-│ Age          : 18
-
-│ Phone     : wa.me/254786273945
-
-│ Support    : M-Pesa BuyGoodsTill - *9657729*
+│ Support   : M-Pesa BuyGoodsTill - *9657729*
 
 │ Youtube   : https://www.youtube.com/c/WillisWrld
-
-│ Instagram   : https://www.instagram.com/Officialwilis
-
-│ Facebook   : https://www.facebook.com/Officialwilis
-
-│ Status     : ᴘʀᴏꜰᴇꜱꜱɪᴏɴᴀʟ ᴅᴇᴠᴇʟᴏᴘᴇʀ 
-
+│ Instagram : https://www.instagram.com/Officialwilis
+│ Facebook  : https://www.facebook.com/Officialwilis
+│ GitHub    : https://github.com/WillisKE  
+│ Status    : ᴘʀᴏꜰᴇꜱꜱɪᴏɴᴀʟ ᴅᴇᴠᴇʟᴏᴘᴇʀ 
 ╰═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄`
 
 
@@ -51,6 +43,8 @@ let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
  smd({
 
              pattern: "intro",
+
+             alias: ["willis","will","winspertech"],
 
              desc: "Show intro of user",
 

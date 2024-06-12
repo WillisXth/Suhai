@@ -32,15 +32,12 @@ let Suhail_Md = "Suhail MD Whatsapp bot md"
 
 
 
-
-/*
 cmd({
    cmdname :"downloader",
    type: "downloader",
    use:"< downloader >",
    filename: __filename,
 }
- */
 
 
 const _0x120884 = _0xe15d;

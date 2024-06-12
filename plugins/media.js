@@ -16,9 +16,7 @@ const _0x7e11dd=_0x26fe;function _0x26fe(_0x7f0c59,_0x3faa82){const _0x3c3dfd=_0
 
 
 
-/*
 {
    pattern: "media",
    type: "notes",
 }
-*/

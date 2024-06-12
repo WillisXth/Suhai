@@ -16,20 +16,19 @@ var image = 'https://telegra.ph/file/cd250759ecb35a39a9951.jpg'
 
 let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
 │       〃ᴡɪʟʟɪꜱ〃
+│ Name     : ᴡɪʟʟɪꜱ
+│ Place    : ᴋɪꜱᴜᴍᴜ/ᴋᴇɴʏᴀ
+│ Gender   :  ᴍ
+│ Age      : 18
+│ Phone    : +254786273945
 
-│ Name      : ᴡɪʟʟɪꜱ
-│ Place     : ᴋɪꜱᴜᴍᴜ/ᴋᴇɴʏᴀ
-│ Gender    :  ᴍ
-│ Age       : 18
-│ Phone     : +254786273945
+│ Support  : M-Pesa BuyGoodsTill - *9657729*
 
-│ Support   : M-Pesa BuyGoodsTill - *9657729*
-
-│ Youtube   : https://www.youtube.com/c/WillisWrld
-│ Instagram : https://www.instagram.com/Officialwilis
-│ Facebook  : https://www.facebook.com/Officialwilis
-│ GitHub    : https://github.com/WillisKE  
-│ Status    : ᴘʀᴏꜰᴇꜱꜱɪᴏɴᴀʟ ᴅᴇᴠᴇʟᴏᴘᴇʀ 
+│ YouTube  : https://www.youtube.com/c/WillisWrld
+│ InstaGram: https://www.instagram.com/Officialwilis
+│ FaceBook : https://www.facebook.com/Officialwilis
+│ GitHub   : https://github.com/WillisKE  
+│ Status   : ᴘʀᴏꜰᴇꜱꜱɪᴏɴᴀʟ ᴅᴇᴠᴇʟᴏᴘᴇʀ 
 ╰═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄`
 
 

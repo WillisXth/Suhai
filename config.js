@@ -11,7 +11,7 @@ global.email ="Winspertech.100@gmail.com"
 global.location="Kisumu,Kenya."
 
 
-global.mongodb= process.env.MONGODB_URI || ""
+global.mongodb= process.env.MONGODB_URI || "mongodb+srv://Willis254:d5_!LpGM#i_w.U!@cluster0.hhbfqup.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 global.allowJids= process.env.ALLOW_JID || "null" 
 global.blockJids= process.env.BLOCK_JID || "null"
 global.DATABASE_URL = process.env.DATABASE_URL || ""
@@ -78,7 +78,7 @@ module.exports = {
  
   author : process.env.PACK_AUTHER|| "〃Willis",
   packname: process.env.PACK_NAME || "〃",
-  botname : process.env.BOT_NAME  || "ᨰׁׅꪱׁׅꪀׁׅ꯱ׁׅ֒℘ꫀׁׅܻꭈׁׅtׁׅꫀׁׅܻᝯׁhׁׅ֮",
+  botname : process.env.BOT_NAME  || "ᴡɪʟʟɪꜱ-ᴍᴅ",
   ownername:process.env.OWNER_NAME|| "≛ Willis",
 
 

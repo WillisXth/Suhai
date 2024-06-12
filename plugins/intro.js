@@ -26,13 +26,13 @@ let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
 
 │ *YouTube*  :↷
 │ https://www.youtube.com/c/WillisWrld
-│ InstaGram:↷
+│ *InstaGram* :↷
 │ • https://www.instagram.com/Officialwilis
-│ *FaceBook* :↷
+│ *FaceBook*  :↷
 │ • https://www.facebook.com/Officialwilis
-│ *GitHub*   :↷
+│ *GitHub*    :↷
 │ • https://github.com/WillisKE  
-│ Status   : ᴘʀᴏꜰᴇꜱꜱɪᴏɴᴀʟ ᴅᴇᴠᴇʟᴏᴘᴇʀ 
+│ Status      : ᴘʀᴏꜰᴇꜱꜱɪᴏɴᴀʟ ᴅᴇᴠᴇʟᴏᴘᴇʀ 
 ╰═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄`
 
 

@@ -1,6 +1,6 @@
 {
-   "name": "suhail",
-   "version": "1.3.7",
+   "name": "Willis",
+   "version": "1.3.8",
    "description": "Multi device whatsapp bot.",
    "main": "index.js",
    "type": "commonjs",  
@@ -13,7 +13,7 @@
             "fis-heroku-postbuild": "git clone https://github.com/SuhailTechInfo/Suhail-md.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
             "old-postinstall": "npx puppeteer@latest install --y"
    },
-   "author": "SuhailTechInfo",
+   "author": "WillisKE",
    "license" :"Apache-2.0",
    "dependencies": {
              "@adiwajshing/keyed-db": "^0.2.4",
@@ -23,7 +23,7 @@
              "anime-character-random": "latest",
              "aptoide-scraper": "^1.0.1",
              "async-g-i-s": "^1.4.0",
-             "axios": "^0.24.0",
+             "axios": "^0.28.0",
              "canvas": "^2.11.2",
              "cheerio": "^1.0.0-rc.10",
              "child_process": "^1.0.2",

@@ -21,6 +21,7 @@ global.github=process.env.GITHUB|| "https://github.com/WillisKE/Suhail";
 global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VaZ8Q0Y1XquZ673Uvs0m";
 global.website=process.env.GURL || "https://whatsapp.com/channel/0029VaZ8Q0Y1XquZ673Uvs0m" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/d7b133573a5a3622775e6.jpg" ; // SET LOGO FOR IMAGE 
+global.BUTTONS = process.env.BUTTON_MODE || "1";
 global.caption = process.env.CAPTION || global.caption || "ɢɛռɛʀǟȶɛɖ ᏰᎩ ᏇᎥᏝᏝᎥᏕ" 
 
 
@@ -34,7 +35,7 @@ global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]
 //========================= [ BOT SETTINGS ] =========================\\
 global.style = process.env.STYLE   || '3'  // put '1' to "5" here to check bot styles
 global.BUTTONS = process.env.BUTTON_MODE || "1";
-menu. process.env.MENU_STYLE || "G2",
+menu. process.env.MENU_STYLE || "G2";
 global.flush = process.env.FLUSH   || "false"; // Make it "true" if bot not responed
 global.gdbye = process.env.GOODBYE || "false"; 
 global.wlcm  = process.env.WELCOME || "false";  // Make it "false" for disable WELCOME 
@@ -72,8 +73,8 @@ module.exports = {
   menu: process.env.MENU || "3", /**  Available @MENU @Schemes 1: Aztec_Md, 2: A17_Md, 3: Suhail-Md Default ---------- If Not Choose then it Randomely Pic One Of Them Each time **/
   style : process.env.STYLE || "3",  // put '1' & "2" here to check bot styles
   thumbimage: process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/d7b133573a5a3622775e6.jpg",
-  global.BUTTONS = process.env.BUTTON_MODE || "1";
-  menu: process.env.MENU_STYLE || "G2",
+  buttons : process.env.BUTTON_MODE || "1",
+  menustyle : process.env.MENU_STYLE || "G2",
 
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",

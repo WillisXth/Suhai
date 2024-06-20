@@ -43,7 +43,7 @@ type : help,
 
 
 
-global.BUTTONS = process.env.BUTTONS || "0"
+global.BUTTONS = process.env.BUTTONS || "1"
 const os = require('os')
 let menus = false
 const moment = require("moment-timezone")
@@ -96,6 +96,11 @@ global.menu =  process.env.MENU || global.menu || Config.menu || "3"
 global.HANDLERS = process.env.HANDLERS || Config.HANDLERS  || prefix || ""
 global.WORKTYPE = process.env.MODE ||   global.WORKTYPE  || Config.WORKTYPE  || "" || ""
 global.menu_fancy = process.env.MENU_FANCY || global.menu_fancy  || "1"
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/d7b133573a5a3622775e6.jpg"
+global.gurl =process.env.GURL  || "https://whatsapp.com/channel/0029VaZ8Q0Y1XquZ673Uvs0m"
+global.github=process.env.GITHUB|| "https://github.com/WillisKE/Suhail"
+global.devs = "254786273945" // Developer Contact
+global.read_status_from =  process.env.READ_STATUS_FROM  ||  "254786273945,254702365210,254708336448,254762508828"
 global.ui_Cache = {};
 global.ui_urls = [];
 

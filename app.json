@@ -2,7 +2,7 @@
   "name": "ᴡɪʟʟɪꜱ-ᴍᴅ",
   "logo": "https://telegra.ph/file/d7b133573a5a3622775e6.jpg",
   "success_url": "/suhail/",
-  "repository": "https://github.com/WillisKE/Suhaul",
+  "repository": "https://github.com/WillisKE/Suhail",
   "app_url": "/qr/",
   "ok-stack": "container",
   "env": { 
@@ -53,7 +53,7 @@
       "value": "public" 
     }
   }, 
-  "addons": [{ "plan": "heroku-postgresql" }],
+  "addons": [{ "plan": "heroku-postgresql:standard" }],
   "buildpacks": [
     { "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" },
     { "url": "https://github.com/carlosdommor/heroku-buildpack-ffmpeg-latest" }

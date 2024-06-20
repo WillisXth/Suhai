@@ -53,7 +53,7 @@
       "value": "public" 
     }
   }, 
-  "addons": [{ "plan": "heroku-postgresql:standard" }],
+  "addons": [{ "plan": "heroku-postgresql:standard-1" }],
   "buildpacks": [
     { "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" },
     { "url": "https://github.com/carlosdommor/heroku-buildpack-ffmpeg-latest" }

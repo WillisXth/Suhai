@@ -74,7 +74,7 @@ module.exports = {
   style : process.env.STYLE || "3",  // put '1' & "2" here to check bot styles
   thumbimage: process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/d7b133573a5a3622775e6.jpg",
   buttons : process.env.BUTTON_MODE || "1",
-  menustyle : process.env.MENU_STYLE || "G2",
+  menustyle : process.env.MENU_STYLE || "1",
 
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",

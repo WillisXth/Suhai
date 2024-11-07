@@ -35,17 +35,20 @@
  <img title="Owner" src="https://img.shields.io/badge/WillisKE-darkred?style=flat-square&logo=github&label=Owner"></a>
    <a href="https://github.com/WillisKE">
     <img src="https://img.shields.io/github/followers/WillisKE?style=flat-square&logo=github&color=darkred">
-  
+    <br>
+    <a href="https://github.com/WillisKE/Suhail"><img src="https://img.shields.io/badge/Fork%20-Repo-darkred" alt="FORK REPO" width="100"
+    </a>
 
- <a><img src="https://i.imgur.com/LyHic3i.gif'"/></a>
+   
 
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/WillisKE/Suhail"><img src="https://img.shields.io/badge/Heroku-darkblue?style=for-the-badge&logo=Heroku&logoColor=Red"></a>
+<a><img src="https://i.imgur.com/LyHic3i.gif'"/></a>
 
- <a href="https://whatsapp.com/channel/0029VaZ8Q0Y1XquZ673Uvs0m"><img src="https://img.shields.io/badge/WhatsApp Channel-01FF41?style=for-the-badge&logo=WhatsApp&logoColor=AD1FCC"></a>
-</p>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/WillisKE/Suhail">
+ <img title="Heroku" src="https://img.shields.io/badge/Deploy%20-Heroku-darkred?style=for-the-badge&logo=Heroku&logoColor=Red" alt="Heroku"
+</a>  
+ <a href="https://whatsapp.com/channel/0029VaZ8Q0Y1XquZ673Uvs0m">
+ <img title="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20-Channel-darkgred?style=for-the-badge&logo=WhatsApp&logoColor=Red" alt="WhatsApp">
 
-
- 
 ## Deployment Methods
 ---
 1.  **Get `SESSION ID` BY [`PAIRING CODE`](https://sessionpair.onrender.com/pair) OR [`SCANNING QR`](https://sessionpair.onrender.com/qr) Then `Go-to Whatapp>Three dots>Linked Devices`**

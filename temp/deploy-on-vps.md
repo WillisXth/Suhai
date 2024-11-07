@@ -25,7 +25,7 @@
   
    5. Clone Repo and install required packages
       ```
-      git clone https://github.com/SuhailTechInfo/Suhail-Md
+      git clone https://github.com/WillisXth/Suhail-Md
       cd Suhail-Md
       yarn install --network-concurrency 1
       ```
@@ -38,10 +38,10 @@
       copy paste lines below.
 
       ```
-      OWNER_NUMBER="923184474176"
+      OWNER_NUMBER="254786273945"
       SESSION_ID = "SESSION_85_23_59_01_kjgfgfclhj"
-      THUMB_IMAGE = "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg"
-      OWNER_NAME = "Suhail"
+      THUMB_IMAGE = "https://telegra.ph/file/d7b133573a5a3622775e6.jpg"
+      OWNER_NAME = "WillisXth"
       PREFIX = .
       WARN_COUNT = 3
       DISABLE_PM = "false"

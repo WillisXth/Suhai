@@ -1,4 +1,8 @@
-web: npm start || node .
+web: npm start
+
+
+
+# node index.js
 
 
 
